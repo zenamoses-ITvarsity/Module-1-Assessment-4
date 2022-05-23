@@ -1,0 +1,33 @@
+td{color: black;
+    font-family: cursive;
+    background-color: beige;
+    border-color: black;
+    border-width: thick;
+    border-collapse: collapse;
+    border-width: 3px;
+}
+
+table{
+    font-family:fantasy;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: aquamarine;
+    
+}
+th{
+    font-weight: 400;
+    font-size: 20px;
+    color:black;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: aliceblue;
+}
+tc{font-size-adjust: 80;
+    font-weight: 900;
+    text-align: center;
+    font-size: 40px;
+    
+    background-color:white;
+    color:black;
+    }
